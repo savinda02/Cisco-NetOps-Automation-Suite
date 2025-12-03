@@ -39,7 +39,6 @@ A Python-based Network Automation framework designed to configure, manage, and a
 2. Install dependencies:
    ```Bash
    pip install -r requirements.txt
-   [Update inventory.csv with your device details.]
 
 3. Usage
    Run the scripts sequentially:
