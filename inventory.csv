@@ -1,0 +1,4 @@
+hostname,ip,device_type,username,password,secret
+R1,192.168.206.131,cisco_ios,admin,cisco,cisco
+R2,192.168.206.132,cisco_ios,admin,cisco,cisco
+R3,192.168.206.133,cisco_ios,admin,cisco,cisco
