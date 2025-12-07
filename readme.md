@@ -34,7 +34,7 @@ A Python-based Network Automation framework designed to configure, manage, and a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/savinda02/Cisco-NetOps-Automation-Suite.git]
+   git clone [https://github.com/savinda02/Cisco-NetOps-Automation-Suite.git] (https://github.com/savinda02/Cisco-NetOps-Automation-Suite.git)
 2. Install dependencies:
    ```Bash
    pip install -r requirements.txt
